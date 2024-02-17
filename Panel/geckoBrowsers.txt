@@ -1,0 +1,18 @@
+%USERPROFILE%\AppData\Roaming\Mozilla\Firefox
+%USERPROFILE%\AppData\Roaming\Waterfox
+%USERPROFILE%\AppData\Roaming\K-Meleon
+%USERPROFILE%\AppData\Roaming\Thunderbird
+%USERPROFILE%\AppData\Roaming\Comodo\IceDragon
+%USERPROFILE%\AppData\Roaming\8pecxstudios\Cyberfox
+%USERPROFILE%\AppData\Roaming\NETGATE Technologies\BlackHaw
+%USERPROFILE%\AppData\Roaming\Moonchild Productions\Pale Moon
+%USERPROFILE%\AppData\Roaming\Ghostery Browser\Profiles
+%USERPROFILE%\AppData\Roaming\Undetectable\Profiles
+%USERPROFILE%\AppData\Roaming\Sielo\profiles
+%USERPROFILE%\AppData\Roaming\Waterfox\Profiles
+%USERPROFILE%\AppData\Roaming\conkeror.mozdev.org\conkeror
+%USERPROFILE%\AppData\Roaming\Netscape\Navigator
+%USERPROFILE%\AppData\Roaming\Mozilla\SeaMonkey
+%USERPROFILE%\AppData\Roaming\FlashPeak\SlimBrowser
+%USERPROFILE%\AppData\Roaming\Avant Profiles
+%USERPROFILE%\AppData\Roaming\Flock
